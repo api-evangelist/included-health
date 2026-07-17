@@ -1,0 +1,5 @@
+# Included Health
+
+Included Health is a company surfaced as a portfolio company of greylock and added to the API Evangelist network as a stub for enrichment. Sector: applications. This profile is a lead awaiting the enrichment pipeline.
+
+Backed by: greylock — https://includedhealth.com/
